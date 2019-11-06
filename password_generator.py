@@ -1,43 +1,18 @@
-import random
-import string
+import character_generator
 
-class CharacterGenerator(object):
+class PasswordGenerator(object):
     def __init__(self):
-        self.categories = { 'U': string.ascii_uppercase, 
-                            'L': string.ascii_lowercase, 
-                            'D': string.digits,
-                            'P': string.punctuation }
-        self.required = {category:True for category in self.categories}
-        self.contains = {category:False for category in self.categories}
-        self.history = [None, None, None]
+        pass
 
-    def generate(self):
-        success = False
-        while not success:
-            choices = []
-            for category in self.contains:
-                if not self.contains[category]:
-                    choices.append(category)
+    def generate(self, length=14):
+        generator = character_generator.CharacterGenerator()
+        password = []
 
-            if not choices:
-                choices = list(self.categories.keys())
+        while len(password) != length:
+            password.append( generator.generate() )
 
-            category = random.choice(choices)
-
-            if set(self.history) != set(category):
-                self.history.append(category)
-                self.history.pop(0)
-                self.contains[category] = True
-
-                choice = random.choice(self.categories[category])
-                success = True
-
-        return choice
+        return "".join(password)
 
 if __name__ == "__main__":
-    gen = CharacterGenerator()
-    password = []
-
-    for i in range(random.randint(14,26)):
-        password.append(gen.generate())
-    print("".join(password))
+    passGen = PasswordGenerator()
+    print(passGen.generate(25))
