@@ -3,6 +3,9 @@ import random
 class NoNamesException(Exception):
     pass
 
+class DuplicateNameException(Exception):
+    pass
+
 class Person(object):
 
     people = {}
@@ -18,8 +21,11 @@ class Person(object):
                 name = random.choice(Person.names)
                 triedNames += 1
             
-            if triedNames >= len(Person.names):
+            if triedNames > len(Person.names):
                 raise NoNamesException
+
+        elif Person.find(name) != None:
+            raise DuplicateNameException
 
         if not age:
             age = random.randint(0,100)
@@ -63,7 +69,6 @@ def PeopleGenerator(population=False, names=False):
 [i for i in PeopleGenerator(names=Person.names)]
 #print(Person.people)
 
-Person("Joe")
 Person("Albert")
 Person("Vladamir")
 Person("Jorge")
