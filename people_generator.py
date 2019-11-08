@@ -66,14 +66,17 @@ def PeopleGenerator(population=False, names=False):
         else:
             yield Person()
 
-[i for i in PeopleGenerator(names=Person.names)]
-#print(Person.people)
+for person in PeopleGenerator(names=Person.names):
+    print(f"Creating {person.name}")
 
-Person("Albert")
-Person("Vladamir")
-Person("Jorge")
-Person.kill("Joe")
-Person("Dr Frederick van Stoop")
-Person()
+name = " "
+while name:
+    name = input("Please enter character name: ")
+
+    if name:
+        try:
+            Person(name)
+        except DuplicateNameException:
+            print("That name is already in use, please try again.")
 
 print(Person.people)
