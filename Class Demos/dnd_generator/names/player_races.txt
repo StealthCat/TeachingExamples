@@ -1,0 +1,53 @@
+Aarakocra, Strength: 0, Dexterity: 2, Constitution: 0, Intelligence: 0, Wisdom: 1, Charisma: 0,  Elemental Evil Player's Companion: pg. 4
+Protector Aasimar, Strength: 0, Dexterity: 0, Constitution: 0, Intelligence: 0, Wisdom: 1, Charisma: 2,  Volo's Guide to Monsters: pg. 105
+Scourge Aasimar, Strength: 0, Dexterity: 0, Constitution: 1, Intelligence: 0, Wisdom: 0, Charisma: 2,  Volo's Guide to Monsters: pg. 105
+Fallen Aasimar, Strength: 1, Dexterity: 0, Constitution: 0, Intelligence: 0, Wisdom: 0, Charisma: 2,  Volo's Guide to Monsters: pg. 105
+Bugbear, Strength: 2, Dexterity: 1, Constitution: 0, Intelligence: 0, Wisdom: 0, Charisma: 0,  Volo's Guide to Monsters: pg. 119
+Dragonborn, Strength: 2, Dexterity: 0, Constitution: 0, Intelligence: 0, Wisdom: 0, Charisma: 1,  Player's Handbook: pg. 32
+Duergar Dwarf, Strength: 1, Dexterity: 0, Constitution: 2, Intelligence: 0, Wisdom: 0, Charisma: 0,  Mordenkainen's Tome of Foes: pg. 82
+Hill Dwarf, Strength: 0, Dexterity: 0, Constitution: 2, Intelligence: 0, Wisdom: 1, Charisma: 0,  Player's Handbook: pg. 20
+Mountain Dwarf, Strength: 2, Dexterity: 0, Constitution: 2, Intelligence: 0, Wisdom: 0, Charisma: 0,  Player's Handbook: pg. 20
+Drow Elf, Strength: 0, Dexterity: 2, Constitution: 0, Intelligence: 0, Wisdom: 0, Charisma: 1,  Player's Handbook: pg. 24
+Eladrin Elf, Strength: 0, Dexterity: 2, Constitution: 0, Intelligence: 0, Wisdom: 0, Charisma: 1,  Mordenkainen's Tome of Foes: pg. 62
+High Elf, Strength: 0, Dexterity: 2, Constitution: 0, Intelligence: 1, Wisdom: 0, Charisma: 0,  Player's Handbook: pg. 23
+Sea Elf, Strength: 0, Dexterity: 2, Constitution: 1, Intelligence: 0, Wisdom: 0, Charisma: 0,  Mordenkainen's Tome of Foes: pg. 63
+Shadar-kai Elf, Strength: 0, Dexterity: 2, Constitution: 1, Intelligence: 0, Wisdom: 0, Charisma: 0,  Mordenkainen's Tome of Foes: pg. 63
+Wood Elf, Strength: 0, Dexterity: 2, Constitution: 0, Intelligence: 0, Wisdom: 1, Charisma: 0,  Player's Handbook: pg. 24
+Firbolg, Strength: 1, Dexterity: 0, Constitution: 0, Intelligence: 0, Wisdom: 2, Charisma: 0,  Volo's Guide to Monsters: pg. 106
+Air Genasi, Strength: 0, Dexterity: 1, Constitution: 2, Intelligence: 0, Wisdom: 0, Charisma: 0,  Elemental Evil Player's Companion: pg. 9
+Earth Genasi, Strength: 1, Dexterity: 0, Constitution: 2, Intelligence: 0, Wisdom: 0, Charisma: 0,  Elemental Evil Player's Companion: pg. 9
+Fire Genasi, Strength: 0, Dexterity: 0, Constitution: 2, Intelligence: 1, Wisdom: 0, Charisma: 0,  Elemental Evil Player's Companion: pg. 9
+Water Genasi, Strength: 0, Dexterity: 0, Constitution: 2, Intelligence: 0, Wisdom: 1, Charisma: 0,  Elemental Evil Player's Companion: pg. 10
+Githyanki Gith, Strength: 2, Dexterity: 0, Constitution: 0, Intelligence: 1, Wisdom: 0, Charisma: 0,  Mordenkainen's Tome of Foes: pg. 97
+Githzerai Gith, Strength: 0, Dexterity: 0, Constitution: 0, Intelligence: 1, Wisdom: 2, Charisma: 0,  Mordenkainen's Tome of Foes: pg. 97
+Deep Gnome, Strength: 0, Dexterity: 1, Constitution: 0, Intelligence: 2, Wisdom: 0, Charisma: 0,  Mordenkainen's Tome of Foes: pg. 115
+Forest Gnome, Strength: 0, Dexterity: 1, Constitution: 0, Intelligence: 2, Wisdom: 0, Charisma: 0,  Player's Handbook: pg. 37
+Rock Gnome, Strength: 0, Dexterity: 0, Constitution: 1, Intelligence: 2, Wisdom: 0, Charisma: 0,  Player's Handbook: pg. 37
+Goblin, Strength: 0, Dexterity: 2, Constitution: 1, Intelligence: 0, Wisdom: 0, Charisma: 0,  Volo's Guide to Monsters: pg. 119
+Goliath, Strength: 2, Dexterity: 0, Constitution: 1, Intelligence: 0, Wisdom: 0, Charisma: 0,  Volo's Guide to Monsters: pg. 108
+Half-Elf, Strength: 0, Dexterity: 0, Constitution: 0, Intelligence: 0, Wisdom: 0, Charisma: 2,  Player's Handbook: pg. 38
+Half-Orc, Strength: 2, Dexterity: 0, Constitution: 1, Intelligence: 0, Wisdom: 0, Charisma: 0,  Player's Handbook: pg. 40
+Lightfoot Halfling, Strength: 0, Dexterity: 2, Constitution: 0, Intelligence: 0, Wisdom: 0, Charisma: 1,  Player's Handbook: pg. 28
+Stout Halfling, Strength: 0, Dexterity: 2, Constitution: 1, Intelligence: 0, Wisdom: 0, Charisma: 0,  Player's Handbook: pg. 28
+Ghostwise Halfling, Strength: 0, Dexterity: 2, Constitution: 0, Intelligence: 0, Wisdom: 1, Charisma: 0,  Sword Coast Adventurer's Guide: pg. 110
+Hobgoblin, Strength: 0, Dexterity: 0, Constitution: 2, Intelligence: 1, Wisdom: 0, Charisma: 0,  Volo's Guide to Monsters: pg. 119
+Human, Strength: 1, Dexterity: 1, Constitution: 1, Intelligence: 1, Wisdom: 1, Charisma: 1,  Player's Handbook: pg. 29
+Kenku, Strength: 0, Dexterity: 2, Constitution: 0, Intelligence: 0, Wisdom: 1, Charisma: 0,  Volo's Guide to Monsters: pg. 109
+Kobold, Strength:-2, Dexterity: 2, Constitution: 0, Intelligence: 0, Wisdom: 0, Charisma: 0,  Volo's Guide to Monsters: pg. 119
+Lizardfolk, Strength: 0, Dexterity: 0, Constitution: 2, Intelligence: 0, Wisdom: 1, Charisma: 0,  Volo's Guide to Monsters: pg. 111
+Orc, Strength: 2, Dexterity: 0, Constitution: 1, Intelligence:-2, Wisdom: 0, Charisma: 0,  Volo's Guide to Monsters: pg. 120
+Tabaxi, Strength: 0, Dexterity: 2, Constitution: 0, Intelligence: 0, Wisdom: 0, Charisma: 1,  Volo's Guide to Monsters: pg. 113
+Tiefling, Strength: 0, Dexterity: 0, Constitution: 0, Intelligence: 1, Wisdom: 0, Charisma: 2,  Player's Handbook: pg. 42
+Baalzebul Tiefling, Strength: 0, Dexterity: 0, Constitution: 0, Intelligence: 1, Wisdom: 0, Charisma: 2,  Mordenkainen's Tome of Foes: pg. 22
+Devils Tongue Tiefling, Strength: 0, Dexterity: 0, Constitution: 0, Intelligence: 1, Wisdom: 0, Charisma: 2,  Sword Coast Adventurer's Guide: pg. 118
+Dispater Tiefling, Strength: 0, Dexterity: 1, Constitution: 0, Intelligence: 0, Wisdom: 0, Charisma: 2,  Mordenkainen's Tome of Foes: pg. 22
+Feral Tiefling, Strength: 0, Dexterity: 2, Constitution: 0, Intelligence: 1, Wisdom: 0, Charisma: 0,  Sword Coast Adventurer's Guide: pg. 118
+Fierna Tiefling, Strength: 0, Dexterity: 0, Constitution: 1, Intelligence: 0, Wisdom: 0, Charisma: 2,  Mordenkainen's Tome of Foes: pg. 22
+Glasya Tiefling, Strength: 0, Dexterity: 1, Constitution: 0, Intelligence: 0, Wisdom: 0, Charisma: 2,  Mordenkainen's Tome of Foes: pg. 22
+Hellfire Tiefling, Strength: 0, Dexterity: 0, Constitution: 0, Intelligence: 1, Wisdom: 0, Charisma: 2,  Sword Coast Adventurer's Guide: pg. 118
+Levistus Tiefling, Strength: 0, Dexterity: 0, Constitution: 1, Intelligence: 0, Wisdom: 0, Charisma: 2,  Mordenkainen's Tome of Foes: pg. 22
+Mammon Tiefling, Strength: 0, Dexterity: 0, Constitution: 0, Intelligence: 1, Wisdom: 0, Charisma: 2,  Mordenkainen's Tome of Foes: pg. 22
+Mephistopheles Tiefling, Strength: 0, Dexterity: 0, Constitution: 0, Intelligence: 1, Wisdom: 0, Charisma: 2,  Mordenkainen's Tome of Foes: pg. 22
+Winged Tiefling, Strength: 0, Dexterity: 0, Constitution: 0, Intelligence: 1, Wisdom: 0, Charisma: 2,  Sword Coast Adventurer's Guide: pg. 118
+Zariel Tiefling, Strength: 1, Dexterity: 0, Constitution: 0, Intelligence: 0, Wisdom: 0, Charisma: 2,  Mordenkainen's Tome of Foes: pg. 22
+Triton, Strength: 1, Dexterity: 0, Constitution: 1, Intelligence: 0, Wisdom: 0, Charisma: 1,  Volo's Guide to Monsters: pg. 115

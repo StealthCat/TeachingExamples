@@ -1,0 +1,20 @@
+---------------------------------------
+|  Bath   |   Bedroom    |   Kitchen  |
+|         |              |            |
+|                        |            |
+|         |              |            |
+|         |              |            |
+----------------    ----------    -----
+|  LvRm   |   Foyer      |    DinRm   |
+|         |              |            |
+|                                     |
+|         |              |            |
+|         |              |            |
+|         |              |            |
+----------------XXXX-------------------
+
+1 Key in fruit bowl in dining room
+2 Lock on Cabinet, card in drawer
+3 Nightsand with card reader, PIN in drawer
+4 Computer in Living Room, Code on desktop
+5 Code used on PIN Pad on front door

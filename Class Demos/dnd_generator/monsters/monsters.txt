@@ -1,0 +1,696 @@
+Name,Size,Type,Subtype,Alignment,CR,XP,Source
+Frog,Tiny,Beast,,Unaligned,0,0,Monster Manual pg. 322
+Sea Horse,Tiny,Beast,,Unaligned,0,0,Monster Manual pg. 337
+Awakened Shrub,Small,Plant,,Unaligned,0,10,Monster Manual pg. 317
+Baboon,Small,Beast,,Unaligned,0,10,Monster Manual pg. 318
+Badger,Tiny,Beast,,Unaligned,0,10,Monster Manual pg. 318
+Bat,Tiny,Beast,,Unaligned,0,10,Monster Manual pg. 318
+Cat,Tiny,Beast,,Unaligned,0,10,Monster Manual pg. 320
+Commoner,Medium,Humanoid,,Any,0,10,Monster Manual pg. 344
+Crab,Tiny,Beast,,Unaligned,0,10,Monster Manual pg. 320
+Cranium Rat,Tiny,Beast,,LE,0,10,Volo's Guide to Monsters pg. 133
+Crawling Claw,Tiny,Undead,,NE,0,10,Monster Manual pg. 44
+Deer,Medium,Beast,,Unaligned,0,10,Monster Manual pg. 321
+Eagle,Small,Beast,,Unaligned,0,10,Monster Manual pg. 322
+Giant Fire Beetle,Small,Beast,,Unaligned,0,10,Monster Manual pg. 325
+Goat,Medium,Beast,,Unaligned,0,10,Monster Manual pg. 330
+Hawk,Tiny,Beast,,Unaligned,0,10,Monster Manual pg. 330
+Homunculus,Tiny,Construct,,N,0,10,Monster Manual pg. 188
+Hyena,Medium,Beast,,Unaligned,0,10,Monster Manual pg. 331
+Jackal,Small,Beast,,Unaligned,0,10,Monster Manual pg. 331
+Lemure,Medium,Fiend,devil,LE,0,10,Monster Manual pg. 76
+Lizard,Tiny,Beast,,Unaligned,0,10,Monster Manual pg. 332
+Myconid Sprout,Small,Plant,,LN,0,10,Monster Manual pg. 230
+Octopus,Small,Beast,,Unaligned,0,10,Monster Manual pg. 333
+Owl,Tiny,Beast,,Unaligned,0,10,Monster Manual pg. 333
+Quipper,Tiny,Beast,,Unaligned,0,10,Monster Manual pg. 335
+Rat,Tiny,Beast,,Unaligned,0,10,Monster Manual pg. 335
+Raven,Tiny,Beast,,Unaligned,0,10,Monster Manual pg. 335
+Scorpion,Tiny,Beast,,Unaligned,0,10,Monster Manual pg. 337
+Shrieker,Medium,Plant,,Unaligned,0,10,Monster Manual pg. 138
+Spider,Tiny,Beast,,Unaligned,0,10,Monster Manual pg. 337
+Vulture,Medium,Beast,,Unaligned,0,10,Monster Manual pg. 339
+Weasel,Tiny,Beast,,Unaligned,0,10,Monster Manual pg. 340
+Bandit,Medium,Humanoid,,Any non-lawful,1/8,25,Monster Manual pg. 343
+Blood Hawk,Small,Beast,,Unaligned,1/8,25,Monster Manual pg. 319
+Boggle,Small,Fey,,CN,1/8,25,Volo's Guide to Monsters pg. 128
+Camel,Large,Beast,,Unaligned,1/8,25,Monster Manual pg. 320
+Cultist,Medium,Humanoid,,Any non-good,1/8,25,Monster Manual pg. 345
+Dolphin,Medium,Beast,,Unaligned,1/8,25,Volo's Guide to Monsters pg. 208
+Flumph,Small,Aberration,,LG,1/8,25,Monster Manual pg. 135
+Flying Snake,Tiny,Beast,,Unaligned,1/8,25,Monster Manual pg. 322
+Giant Crab,Medium,Beast,,Unaligned,1/8,25,Monster Manual pg. 324
+Giant Rat,Small,Beast,,Unaligned,1/8,25,Monster Manual pg. 327
+Giant Weasel,Medium,Beast,,Unaligned,1/8,25,Monster Manual pg. 329
+Guard,Medium,Humanoid,,,1/8,25,Monster Manual pg. 347
+Kobold,Small,Humanoid,kobold,LE,1/8,25,Monster Manual pg. 195
+Manes,Small,Fiend,demon,CE,1/8,25,Monster Manual pg. 60
+Mastiff,Medium,Beast,,Unaligned,1/8,25,Monster Manual pg. 332
+Merfolk,Medium,Humanoid,merfolk,N,1/8,25,Monster Manual pg. 218
+Monodrone,Medium,Construct,,LN,1/8,25,Monster Manual pg. 224
+Mule,Medium,Beast,,Unaligned,1/8,25,Monster Manual pg. 333
+Neogi Hatchling,Tiny,Aberration,,LE,1/8,25,Volo's Guide to Monsters pg. 179
+Noble,Medium,Humanoid,,,1/8,25,Monster Manual pg. 348
+Poisonous Snake,Tiny,Beast,,Unaligned,1/8,25,Monster Manual pg. 334
+Pony,Medium,Beast,,Unaligned,1/8,25,Monster Manual pg. 335
+Slaad Tadpole,Tiny,Aberration,,CN,1/8,25,Monster Manual pg. 276
+Stirge,Tiny,Beast,,Unaligned,1/8,25,Monster Manual pg. 284
+Tribal Warrior,Medium,Humanoid,,,1/8,25,Monster Manual pg. 350
+Twig Blight,Small,Plant,,NE,1/8,25,Monster Manual pg. 32
+Xvart,Small,Humanoid,xvart,CE,1/8,25,Volo's Guide to Monsters pg. 200
+Young Kruthik,Small,Monstrosity,,Unaligned,1/8,25,Mordenkainen's Tome of Foes pg. 211
+Aarakocra,Medium,Humanoid,aarakocra,NG,1/4,50,Monster Manual pg. 12
+Abyssal Wretch,Medium,Fiend,demon,CE,1/4,50,Mordenkainen's Tome of Foes pg. 136
+Acolyte,Medium,Humanoid,,Any,1/4,50,Monster Manual pg. 342
+Apprentice Wizard,Medium,Humanoid,,Any,1/4,50,Volo's Guide to Monsters pg. 209
+Axe Beak,Large,Beast,,Unaligned,1/4,50,Monster Manual pg. 317
+Blink Dog,Medium,Fey,,LG,1/4,50,Monster Manual pg. 318
+Boar,Medium,Beast,,Unaligned,1/4,50,Monster Manual pg. 319
+Bullywug,Medium,Humanoid,bullywug,NE,1/4,50,Monster Manual pg. 35
+Constrictor Snake,Large,Beast,,Unaligned,1/4,50,Monster Manual pg. 320
+Cow,Large,Beast,,Unaligned,1/4,50,Volo's Guide to Monsters pg. 207
+Deep Rothe,Medium,Beast,,Unaligned,1/4,50,Volo's Guide to Monsters pg. 207
+Derro,Small,Humanoid,derro,CE,1/4,50,Mordenkainen's Tome of Foes pg. 158
+Dimetrodon,Medium,Beast,,Unaligned,1/4,50,Volo's Guide to Monsters pg. 139
+Draft Horse,Large,Beast,,Unaligned,1/4,50,Monster Manual pg. 321
+Dretch,Small,Fiend,demon,CE,1/4,50,Monster Manual pg. 57
+Drow,Medium,Humanoid,elf,NE,1/4,50,Monster Manual pg. 128
+Duodrone,Medium,Construct,,LN,1/4,50,Monster Manual pg. 225
+Elk,Large,Beast,,Unaligned,1/4,50,Monster Manual pg. 322
+Flying Sword,Small,Construct,,Unaligned,1/4,50,Monster Manual pg. 20
+Giant Badger,Medium,Beast,,Unaligned,1/4,50,Monster Manual pg. 323
+Giant Bat,Large,Beast,,Unaligned,1/4,50,Monster Manual pg. 323
+Giant Centipede,Small,Beast,,Unaligned,1/4,50,Monster Manual pg. 323
+Giant Frog,Medium,Beast,,Unaligned,1/4,50,Monster Manual pg. 325
+Giant Lizard,Large,Beast,,Unaligned,1/4,50,Monster Manual pg. 326
+Giant Owl,Large,Beast,,N,1/4,50,Monster Manual pg. 327
+Giant Poisonous Snake,Medium,Beast,,Unaligned,1/4,50,Monster Manual pg. 327
+Giant Wolf Spider,Medium,Beast,,Unaligned,1/4,50,Monster Manual pg. 330
+Gnoll Witherling,Medium,Undead,,CE,1/4,50,Volo's Guide to Monsters pg. 155
+Goblin,Small,Humanoid,goblinoid,NE,1/4,50,Monster Manual pg. 166
+Grimlock,Medium,Humanoid,grimlock,NE,1/4,50,Monster Manual pg. 175
+Grung,Small,Humanoid,grung,LE,1/4,50,Volo's Guide to Monsters pg. 156
+Hadrosaurus,Large,Beast,,Unaligned,1/4,50,Volo's Guide to Monsters pg. 140
+Kenku,Medium,Humanoid,kenku,CN,1/4,50,Monster Manual pg. 194
+Kobold Inventor,Small,Humanoid,kobold,LE,1/4,50,Volo's Guide to Monsters pg. 166
+Kuo-toa,Medium,Humanoid,kuo-toa,NE,1/4,50,Monster Manual pg. 199
+Male Steeder,Medium,Monstrosity,,Unaligned,1/4,50,Mordenkainen's Tome of Foes pg. 238
+Mud Mephit,Small,Elemental,,NE,1/4,50,Monster Manual pg. 216
+Needle Blight,Medium,Plant,,NE,1/4,50,Monster Manual pg. 32
+Oblex Spawn,Tiny,Ooze,,LE,1/4,50,Mordenkainen's Tome of Foes pg. 217
+Ox,Large,Beast,,Unaligned,1/4,50,Volo's Guide to Monsters pg. 207
+Panther,Medium,Beast,,Unaligned,1/4,50,Monster Manual pg. 333
+Pixie,Tiny,Fey,,NG,1/4,50,Monster Manual pg. 253
+Pseudodragon,Tiny,Dragon,,NG,1/4,50,Monster Manual pg. 254
+Pteranodon,Medium,Beast,,Unaligned,1/4,50,Monster Manual pg. 80
+Riding Horse,Large,Beast,,Unaligned,1/4,50,Monster Manual pg. 336
+Rothe,Large,Beast,,Unaligned,1/4,50,Volo's Guide to Monsters pg. 207
+Skeleton,Medium,Undead,,LE,1/4,50,Monster Manual pg. 272
+Smoke Mephit,Small,Elemental,,NE,1/4,50,Monster Manual pg. 217
+Sprite,Tiny,Fey,,NG,1/4,50,Monster Manual pg. 283
+Star Spawn Grue,Small,Aberration,,NE,1/4,50,Mordenkainen's Tome of Foes pg. 234
+Steam Mephit,Small,Elemental,,NE,1/4,50,Monster Manual pg. 217
+Stench Kow,Large,Beast,,Unaligned,1/4,50,Volo's Guide to Monsters pg. 207
+Swarm of Bats,Medium,Beast,,Unaligned,1/4,50,Monster Manual pg. 337
+Swarm of Rats,Medium,Beast,,Unaligned,1/4,50,Monster Manual pg. 339
+Swarm of Ravens,Medium,Beast,,Unaligned,1/4,50,Monster Manual pg. 339
+Tortle,Medium,Humanoid,tortle,LG,1/4,50,Mordenkainen's Tome of Foes pg. 242
+Troglodyte,Medium,Humanoid,troglodyte,CE,1/4,50,Monster Manual pg. 290
+Vegepygmy,Small,Plant,,N,1/4,50,Volo's Guide to Monsters pg. 196
+Velociraptor,Tiny,Beast,,Unaligned,1/4,50,Volo's Guide to Monsters pg. 140
+Violet Fungus,Medium,Plant,,Unaligned,1/4,50,Monster Manual pg. 138
+Winged Kobold,Small,Humanoid,kobold,LE,1/4,50,Monster Manual pg. 195
+Wolf,Medium,Beast,,Unaligned,1/4,50,Monster Manual pg. 341
+Wretched Sorrowsworn,Small,Monstrosity,,NE,1/4,50,Mordenkainen's Tome of Foes pg. 233
+Zombie,Medium,Undead,,NE,1/4,50,Monster Manual pg. 316
+Ape,Medium,Beast,,Unaligned,1/2,100,Monster Manual pg. 317
+Black Bear,Medium,Beast,,Unaligned,1/2,100,Monster Manual pg. 318
+Chitine,Small,Monstrosity,,CE,1/2,100,Volo's Guide to Monsters pg. 131
+Cockatrice,Small,Monstrosity,,Unaligned,1/2,100,Monster Manual pg. 42
+Crocodile,Large,Beast,,Unaligned,1/2,100,Monster Manual pg. 320
+Darkling,Small,Fey,,CN,1/2,100,Volo's Guide to Monsters pg. 134
+Darkmantle,Small,Monstrosity,,Unaligned,1/2,100,Monster Manual pg. 46
+Dust Mephit,Small,Elemental,,NE,1/2,100,Monster Manual pg. 215
+Firenewt Warrior,Medium,Humanoid,firenewt,NE,1/2,100,Volo's Guide to Monsters pg. 142
+Gas Spore,Large,Plant,,Unaligned,1/2,100,Monster Manual pg. 138
+Gazer,Tiny,Aberration,,NE,1/2,100,Volo's Guide to Monsters pg. 126
+Giant Goat,Large,Beast,,Unaligned,1/2,100,Monster Manual pg. 326
+Giant Sea Horse,Large,Beast,,Unaligned,1/2,100,Monster Manual pg. 328
+Giant Wasp,Medium,Beast,,Unaligned,1/2,100,Monster Manual pg. 329
+Gnoll,Medium,Humanoid,gnoll,CE,1/2,100,Monster Manual pg. 163
+Gnoll Hunter,Medium,Humanoid,gnoll,CE,1/2,100,Volo's Guide to Monsters pg. 154
+Gray Ooze,Medium,Ooze,,Unaligned,1/2,100,Monster Manual pg. 243
+Hobgoblin,Medium,Humanoid,goblinoid,LE,1/2,100,Monster Manual pg. 186
+Ice Mephit,Small,Elemental,,NE,1/2,100,Monster Manual pg. 215
+Jackalwere,Medium,Humanoid,shapechanger,CE,1/2,100,Monster Manual pg. 193
+Lizardfolk,Medium,Humanoid,lizardfolk,N,1/2,100,Monster Manual pg. 204
+Magma Mephit,Small,Elemental,,NE,1/2,100,Monster Manual pg. 216
+Magmin,Small,Elemental,,CN,1/2,100,Monster Manual pg. 212
+Myconid Adult,Medium,Plant,,LN,1/2,100,Monster Manual pg. 232
+Nupperibo,Medium,Fiend,devil,LE,1/2,100,Mordenkainen's Tome of Foes pg. 168
+Orc,Medium,Humanoid,orc,CE,1/2,100,Monster Manual pg. 246
+Orc Nurtured One of Yurtrus,Medium,Humanoid,orc,CE,1/2,100,Volo's Guide to Monsters pg. 184
+Piercer,Medium,Monstrosity,,Unaligned,1/2,100,Monster Manual pg. 252
+Reef Shark,Medium,Beast,,Unaligned,1/2,100,Monster Manual pg. 336
+Rust Monster,Medium,Monstrosity,,Unaligned,1/2,100,Monster Manual pg. 262
+Sahuagin,Medium,Humanoid,sahuagin,LE,1/2,100,Monster Manual pg. 263
+Satyr,Medium,Fey,,CN,1/2,100,Monster Manual pg. 267
+Scout,Medium,Humanoid,,,1/2,100,Monster Manual pg. 349
+Shadow,Medium,Undead,,CE,1/2,100,Monster Manual pg. 269
+Skulk,Medium,Humanoid,,CN,1/2,100,Mordenkainen's Tome of Foes pg. 227
+Svirfneblin,Small,Humanoid,gnome,NG,1/2,100,Monster Manual pg. 164
+Swarm of Insects,Medium,Beast,,Unaligned,1/2,100,Monster Manual pg. 338
+Swarm of Rot Grubs,Medium,Beast,,Unaligned,1/2,100,Volo's Guide to Monsters pg. 208
+Thug,Medium,Humanoid,,,1/2,100,Monster Manual pg. 350
+Tridrone,Medium,Construct,,LN,1/2,100,Monster Manual pg. 225
+Vine Blight,Medium,Plant,,NE,1/2,100,Monster Manual pg. 32
+Warhorse,Large,Beast,,Unaligned,1/2,100,Monster Manual pg. 340
+Warhorse(Skeleton),Large,Undead,,LE,1/2,100,Monster Manual pg. 273
+Worg,Large,Monstrosity,,NE,1/2,100,Monster Manual pg. 341
+Animated Armor,Medium,Construct,,Unaligned,1,200,Monster Manual pg. 19
+Brass Dragon Wyrmling,Medium,Dragon,,CG,1,200,Monster Manual pg. 106
+Bronze Scout,Medium,Construct,,Unaligned,1,200,Mordenkainen's Tome of Foes pg. 125
+Brown Bear,Large,Beast,,Unaligned,1,200,Monster Manual pg. 319
+Bugbear,Medium,Humanoid,goblinoid,CE,1,200,Monster Manual pg. 33
+Choker,Small,Aberration,,CE,1,200,Mordenkainen's Tome of Foes pg. 123
+Copper Dragon Wyrmling,Medium,Dragon,,CG,1,200,Monster Manual pg. 112
+Death Dog,Medium,Monstrosity,,NE,1,200,Monster Manual pg. 321
+Deinonychus,Medium,Beast,,Unaligned,1,200,Volo's Guide to Monsters pg. 139
+Dire Wolf,Large,Beast,,Unaligned,1,200,Monster Manual pg. 321
+Dryad,Medium,Fey,,N,1,200,Monster Manual pg. 121
+Duergar,Medium,Humanoid,dwarf,LE,1,200,Monster Manual pg. 122
+Duergar Soulblade,Medium,Humanoid,dwarf,LE,1,200,Mordenkainen's Tome of Foes pg. 190
+Female Steeder,Large,Monstrosity,,Unaligned,1,200,Mordenkainen's Tome of Foes pg. 238
+Fire Snake,Medium,Elemental,,NE,1,200,Monster Manual pg. 265
+Firenewt Warlock of Imix,Medium,Humanoid,firenewt,NE,1,200,Volo's Guide to Monsters pg. 143
+Ghoul,Medium,Undead,,CE,1,200,Monster Manual pg. 148
+Giant Eagle,Large,Beast,,NG,1,200,Monster Manual pg. 324
+Giant Hyena,Large,Beast,,Unaligned,1,200,Monster Manual pg. 326
+Giant Octopus,Large,Beast,,Unaligned,1,200,Monster Manual pg. 326
+Giant Spider,Large,Beast,,Unaligned,1,200,Monster Manual pg. 328
+Giant Strider,Large,Monstrosity,,NE,1,200,Volo's Guide to Monsters pg. 143
+Giant Toad,Large,Beast,,Unaligned,1,200,Monster Manual pg. 329
+Giant Vulture,Large,Beast,,NE,1,200,Monster Manual pg. 329
+Gnoll Flesh Gnawer,Medium,Humanoid,gnoll,CE,1,200,Volo's Guide to Monsters pg. 154
+Goblin Boss,Small,Humanoid,goblinoid,NE,1,200,Monster Manual pg. 166
+Grung Wildling,Small,Humanoid,grung,LE,1,200,Volo's Guide to Monsters pg. 157
+Half-ogre,Large,Giant,,Any chaotic,1,200,Monster Manual pg. 238
+Harpy,Medium,Monstrosity,,CE,1,200,Monster Manual pg. 181
+Hippogriff,Large,Monstrosity,,Unaligned,1,200,Monster Manual pg. 184
+Imp,Tiny,Fiend,devil, shapechanger,LE,1,200,Monster Manual pg. 76
+Kobold Dragonshield,Small,Humanoid,kobold,LE,1,200,Volo's Guide to Monsters pg. 165
+Kobold Scale Sorcerer,Small,Humanoid,kobold,LE,1,200,Volo's Guide to Monsters pg. 167
+Kuo-toa Whip,Medium,Humanoid,kuo-toa,NE,1,200,Monster Manual pg. 200
+Lion,Large,Beast,,Unaligned,1,200,Monster Manual pg. 331
+Maw Demon,Medium,Fiend,demon,CE,1,200,Volo's Guide to Monsters pg. 137
+Meazel,Medium,Humanoid,meazel,NE,1,200,Mordenkainen's Tome of Foes pg. 214
+Nilbog,Small,Humanoid,goblinoid,CE,1,200,Volo's Guide to Monsters pg. 182
+Quadrone,Medium,Construct,,LN,1,200,Monster Manual pg. 226
+Quaggoth Spore Servant,Medium,Plant,,Unaligned,1,200,Monster Manual pg. 230
+Quasit,Tiny,Fiend,demon, shapechanger,CE,1,200,Monster Manual pg. 63
+Quickling,Tiny,Fey,,CE,1,200,Volo's Guide to Monsters pg. 187
+Scarecrow,Medium,Construct,,CE,1,200,Monster Manual pg. 268
+Sea Spawn,Medium,Humanoid,,NE,1,200,Volo's Guide to Monsters pg. 189
+Specter,Medium,Undead,,CE,1,200,Monster Manual pg. 279
+Spy,Medium,Humanoid,,,1,200,Monster Manual pg. 349
+Stone Cursed,Medium,Construct,,LE,1,200,Mordenkainen's Tome of Foes pg. 240
+Swarm of Quippers,Medium,Beast,,Unaligned,1,200,Monster Manual pg. 338
+Thorny,Medium,Plant,,N,1,200,Volo's Guide to Monsters pg. 197
+Thri-kreen,Medium,Humanoid,thri-kreen,CN,1,200,Monster Manual pg. 288
+Tiger,Large,Beast,,Unaligned,1,200,Monster Manual pg. 339
+Vargouille,Tiny,Fiend,,CE,1,200,Volo's Guide to Monsters pg. 195
+Xvart Warlock of Raxivort,Small,Humanoid,xvart,CE,1,200,Volo's Guide to Monsters pg. 200
+Young Faerie Dragon,Tiny,Dragon,,CG,1,200,Monster Manual pg. 133
+Yuan-ti Pureblood,Medium,Humanoid,yuan-ti,NE,1,200,Monster Manual pg. 310
+Adult Faerie Dragon,Tiny,Dragon,,CG,2,450,Monster Manual pg. 133
+Adult Kruthik,Medium,Monstrosity,,Unaligned,2,450,Mordenkainen's Tome of Foes pg. 212
+Allosaurus,Large,Beast,,Unaligned,2,450,Monster Manual pg. 79
+Ankheg,Large,Monstrosity,,Unaligned,2,450,Monster Manual pg. 21
+Aurochs,Large,Beast,,Unaligned,2,450,Volo's Guide to Monsters pg. 207
+Awakened Tree,Huge,Plant,,Unaligned,2,450,Monster Manual pg. 317
+Azer,Medium,Elemental,,LN,2,450,Monster Manual pg. 22
+Bandit Captain,Medium,Humanoid,,Any non-lawful,2,450,Monster Manual pg. 344
+Bard,Medium,Humanoid,,Any,2,450,Volo's Guide to Monsters pg. 211
+Berbalang,Medium,Aberration,,NE,2,450,Mordenkainen's Tome of Foes pg. 120
+Berserker,Medium,Humanoid,,Any chaotic,2,450,Monster Manual pg. 344
+Black Dragon Wyrmling,Medium,Dragon,,CE,2,450,Monster Manual pg. 88
+Bronze Dragon Wyrmling,Medium,Dragon,,LG,2,450,Monster Manual pg. 109
+Carrion Crawler,Large,Monstrosity,,Unaligned,2,450,Monster Manual pg. 37
+Cave Bear,Large,Beast,,Unaligned,2,450,Monster Manual pg. 334
+Centaur,Large,Monstrosity,,NG,2,450,Monster Manual pg. 38
+Cult Fanatic,Medium,Humanoid,,Any non-good,2,450,Monster Manual pg. 345
+Darkling Elder,Medium,Fey,,CN,2,450,Volo's Guide to Monsters pg. 134
+Druid,Medium,Humanoid,,Any,2,450,Monster Manual pg. 346
+Duergar Hammerer,Medium,Construct,,LE,2,450,Mordenkainen's Tome of Foes pg. 188
+Duergar Kavalrachni,Medium,Humanoid,dwarf,LE,2,450,Mordenkainen's Tome of Foes pg. 189
+Duergar Mind Master,Medium,Humanoid,dwarf,LE,2,450,Mordenkainen's Tome of Foes pg. 189
+Duergar Stone Guard,Medium,Humanoid,dwarf,LE,2,450,Mordenkainen's Tome of Foes pg. 191
+Duergar Xarrorn,Medium,Humanoid,dwarf,LE,2,450,Mordenkainen's Tome of Foes pg. 193
+Ettercap,Medium,Monstrosity,,NE,2,450,Monster Manual pg. 131
+Gargoyle,Medium,Elemental,,CE,2,450,Monster Manual pg. 140
+Gelatinous Cube,Large,Ooze,,Unaligned,2,450,Monster Manual pg. 242
+Ghast,Medium,Undead,,CE,2,450,Monster Manual pg. 148
+Giant Boar,Large,Beast,,Unaligned,2,450,Monster Manual pg. 323
+Giant Constrictor Snake,Huge,Beast,,Unaligned,2,450,Monster Manual pg. 324
+Giant Elk,Huge,Beast,,Unaligned,2,450,Monster Manual pg. 325
+Gibbering Mouther,Medium,Aberration,,N,2,450,Monster Manual pg. 157
+Githzerai Monk,Medium,Humanoid,gith,LN,2,450,Monster Manual pg. 161
+Gnoll Pack Lord,Medium,Humanoid,gnoll,CE,2,450,Monster Manual pg. 163
+Green Dragon Wyrmling,Medium,Dragon,,LE,2,450,Monster Manual pg. 95
+Grick,Medium,Monstrosity,,N,2,450,Monster Manual pg. 173
+Griffon,Large,Monstrosity,,Unaligned,2,450,Monster Manual pg. 174
+Grung Elite Warrior,Small,Humanoid,grung,LE,2,450,Volo's Guide to Monsters pg. 157
+Guard Drake,Medium,Dragon,,Unaligned,2,450,Volo's Guide to Monsters pg. 158
+Hobgoblin Iron Shadow,Medium,Humanoid,goblinoid,LE,2,450,Volo's Guide to Monsters pg. 162
+Hunter Shark,Large,Beast,,Unaligned,2,450,Monster Manual pg. 330
+Intellect Devourer,Tiny,Aberration,,LE,2,450,Monster Manual pg. 191
+Lizardfolk Shaman,Medium,Humanoid,lizardfolk,N,2,450,Monster Manual pg. 205
+Meenlock,Small,Fey,,NE,2,450,Volo's Guide to Monsters pg. 170
+Merrow,Large,Monstrosity,,CE,2,450,Monster Manual pg. 219
+Mimic,Medium,Monstrosity,shapechanger,N,2,450,Monster Manual pg. 220
+Minotaur(Skeleton),Large,Undead,,LE,2,450,Monster Manual pg. 273
+Myconid Sovereign,Large,Plant,,LN,2,450,Monster Manual pg. 232
+Nothic,Medium,Aberration,,NE,2,450,Monster Manual pg. 236
+Ochre Jelly,Large,Ooze,,Unaligned,2,450,Monster Manual pg. 243
+Ogre,Large,Giant,,CE,2,450,Monster Manual pg. 237
+Ogre Bolt Launcher,Large,Giant,,CE,2,450,Mordenkainen's Tome of Foes pg. 220
+Ogre Howdah,Large,Giant,,CE,2,450,Mordenkainen's Tome of Foes pg. 221
+Ogre Zombie,Large,Undead,,NE,2,450,Monster Manual pg. 316
+Orc Claw of Luthic,Medium,Humanoid,orc,CE,2,450,Volo's Guide to Monsters pg. 183
+Orc Eye of Gruumsh,Medium,Humanoid,orc,CE,2,450,Monster Manual pg. 247
+Orc Hand of Yurtrus,Medium,Humanoid,orc,CE,2,450,Volo's Guide to Monsters pg. 184
+Orog,Medium,Humanoid,orc,CE,2,450,Monster Manual pg. 247
+Pegasus,Large,Celestial,,CG,2,450,Monster Manual pg. 250
+Pentadrone,Large,Construct,,LN,2,450,Monster Manual pg. 226
+Peryton,Medium,Monstrosity,,CE,2,450,Monster Manual pg. 251
+Plesiosaurus,Large,Beast,,Unaligned,2,450,Monster Manual pg. 80
+Polar Bear,Large,Beast,,Unaligned,2,450,Monster Manual pg. 334
+Priest,Medium,Humanoid,,,2,450,Monster Manual pg. 348
+Quaggoth,Medium,Humanoid,quaggoth,CN,2,450,Monster Manual pg. 256
+Quetzalcoatlus,Huge,Beast,,Unaligned,2,450,Volo's Guide to Monsters pg. 140
+Rhinoceros,Large,Beast,,Unaligned,2,450,Monster Manual pg. 336
+Rug of Smothering,Large,Construct,,Unaligned,2,450,Monster Manual pg. 20
+Rutterkin,Medium,Fiend,demon,CE,2,450,Mordenkainen's Tome of Foes pg. 136
+Saber-toothed Tiger,Large,Beast,,Unaligned,2,450,Monster Manual pg. 336
+Sahuagin Priestess,Medium,Humanoid,sahuagin,LE,2,450,Monster Manual pg. 264
+Sea Hag,Medium,Fey,,CE,2,450,Monster Manual pg. 179
+Shadow Mastiff,Medium,Monstrosity,NE,NE,2,450,Volo's Guide to Monsters pg. 190
+Silver Dragon Wyrmling,Medium,Dragon,,LG,2,450,Monster Manual pg. 118
+Specter (poltergeist),Medium,Undead,,CE,2,450,Monster Manual pg. 279
+Spined Devil,Small,Fiend,devil,LE,2,450,Monster Manual pg. 78
+Swarm of Poisonous Snakes,Medium,Beast,,Unaligned,2,450,Monster Manual pg. 338
+Tortle Druid,Medium,Humanoid,tortle,LN,2,450,Mordenkainen's Tome of Foes pg. 242
+Vegepygmy Chief,Small,Plant,,N,2,450,Volo's Guide to Monsters pg. 197
+Wererat,Medium,Humanoid,human, shapechanger,LE,2,450,Monster Manual pg. 209
+White Dragon Wyrmling,Medium,Dragon,,CE,2,450,Monster Manual pg. 102
+Will-o-wisp,Tiny,Undead,,CE,2,450,Monster Manual pg. 301
+Yuan-ti Broodguard,Medium,Humanoid,yuan-ti,NE,2,450,Volo's Guide to Monsters pg. 203
+Ankylosaurus,Huge,Beast,,Unaligned,3,700,Monster Manual pg. 79
+Archer,Medium,Humanoid,,Any,3,700,Volo's Guide to Monsters pg. 210
+Basilisk,Medium,Monstrosity,,Unaligned,3,700,Monster Manual pg. 24
+Bearded Devil,Medium,Fiend,devil,LE,3,700,Monster Manual pg. 70
+Blue Dragon Wyrmling,Medium,Dragon,,LE,3,700,Monster Manual pg. 91
+Bugbear Chief,Medium,Humanoid,goblinoid,CE,3,700,Monster Manual pg. 33
+Bulezau,Medium,Fiend,demon,CE,3,700,Mordenkainen's Tome of Foes pg. 131
+Cave Fisher,Medium,Monstrosity,,Unaligned,3,700,Volo's Guide to Monsters pg. 130
+Choldrith,Medium,Monstrosity,,CE,3,700,Volo's Guide to Monsters pg. 132
+Deathlock Wight,Medium,Undead,,NE,3,700,Mordenkainen's Tome of Foes pg. 129
+Deep Scion,Medium,Humanoid,shapechanger,NE,3,700,Volo's Guide to Monsters pg. 135
+Derro Savant,Small,Humanoid,derro,CE,3,700,Mordenkainen's Tome of Foes pg. 159
+Displacer Beast,Large,Monstrosity,,LE,3,700,Monster Manual pg. 81
+Doppelganger,Medium,Monstrosity,shapechanger,N,3,700,Monster Manual pg. 82
+Duergar Screamer,Medium,Construct,,LE,3,700,Mordenkainen's Tome of Foes pg. 190
+Flail Snail,Large,Elemental,,Unaligned,3,700,Volo's Guide to Monsters pg. 144
+Giant Scorpion,Large,Beast,,Unaligned,3,700,Monster Manual pg. 327
+Giff,Medium,Humanoid,,LN,3,700,Mordenkainen's Tome of Foes pg. 204
+Githyanki Warrior,Medium,Humanoid,gith,LE,3,700,Monster Manual pg. 160
+Gold Dragon Wyrmling,Medium,Dragon,,LG,3,700,Monster Manual pg. 115
+Green Hag,Medium,Fey,,NE,3,700,Monster Manual pg. 177
+Grell,Medium,Aberration,,NE,3,700,Monster Manual pg. 172
+Hell Hound,Medium,Fiend,,LE,3,700,Monster Manual pg. 182
+Hobgoblin Captain,Medium,Humanoid,goblinoid,LE,3,700,Monster Manual pg. 186
+Hook Horror,Large,Monstrosity,,N,3,700,Monster Manual pg. 189
+Illusionist,Medium,Humanoid,,Any,3,700,Volo's Guide to Monsters pg. 214
+Killer Whale,Huge,Beast,,Unaligned,3,700,Monster Manual pg. 331
+Knight,Medium,Humanoid,,,3,700,Monster Manual pg. 347
+Leucrotta,Large,Monstrosity,,CE,3,700,Volo's Guide to Monsters pg. 169
+Manticore,Large,Monstrosity,,LE,3,700,Monster Manual pg. 213
+Martial Arts Adept,Medium,Humanoid,,Any,3,700,Volo's Guide to Monsters pg. 216
+Merrenoloth,Medium,Fiend,yugoloth,NE,3,700,Mordenkainen's Tome of Foes pg. 250
+Minotaur,Large,Monstrosity,,CE,3,700,Monster Manual pg. 223
+Mummy,Medium,Undead,,LE,3,700,Monster Manual pg. 228
+Neogi,Small,Aberration,,LE,3,700,Volo's Guide to Monsters pg. 180
+Nightmare,Large,Fiend,,NE,3,700,Monster Manual pg. 235
+Ogre Chain Brute,Large,Giant,,CE,3,700,Mordenkainen's Tome of Foes pg. 221
+Orc Red Fang of Shargaas,Medium,Humanoid,orc,CE,3,700,Volo's Guide to Monsters pg. 185
+Owlbear,Large,Monstrosity,,Unaligned,3,700,Monster Manual pg. 249
+Phase Spider,Large,Monstrosity,,Unaligned,3,700,Monster Manual pg. 334
+Quaggoth Thonot,Medium,Humanoid,quaggoth,CN,3,700,Monster Manual pg. 256
+Redcap,Small,Fey,,CE,3,700,Volo's Guide to Monsters pg. 188
+Slithering Tracker,Medium,Ooze,,CE,3,700,Volo's Guide to Monsters pg. 191
+Spectator,Medium,Aberration,,LN,3,700,Monster Manual pg. 30
+Swashbuckler,Medium,Humanoid,,Any non-lawful,3,700,Volo's Guide to Monsters pg. 217
+Sword Wraith Warrior,Medium,Undead,,LE,3,700,Mordenkainen's Tome of Foes pg. 241
+Trapper,Large,Monstrosity,,Unaligned,3,700,Volo's Guide to Monsters pg. 194
+Vampiric Mist,Medium,Undead,,CE,3,700,Mordenkainen's Tome of Foes pg. 246
+Veteran,Medium,Humanoid,,,3,700,Monster Manual pg. 350
+Water Weird,Large,Elemental,,N,3,700,Monster Manual pg. 299
+Werewolf,Medium,Humanoid,human, shapechanger,CE,3,700,Monster Manual pg. 211
+Wight,Medium,Undead,,NE,3,700,Monster Manual pg. 300
+Winter Wolf,Large,Monstrosity,,NE,3,700,Monster Manual pg. 340
+Yeti,Large,Monstrosity,,CE,3,700,Monster Manual pg. 305
+Yuan-ti Malison,Medium,Monstrosity,shapechanger, yuan-ti,NE,3,700,Monster Manual pg. 309
+Babau,Medium,Fiend,demon,CE,4,1100,Volo's Guide to Monsters pg. 136
+Banshee,Medium,Undead,,CE,4,1100,Monster Manual pg. 23
+Barghest,Large,Fiend,shapechanger,NE,4,1100,Volo's Guide to Monsters pg. 123
+Black Pudding,Large,Ooze,,Unaligned,4,1100,Monster Manual pg. 241
+Bone Naga,Large,Undead,,LE,4,1100,Monster Manual pg. 233
+Chuul,Large,Aberration,,CE,4,1100,Monster Manual pg. 40
+Couatl,Medium,Celestial,,LG,4,1100,Monster Manual pg. 43
+Deathlock,Medium,Undead,,NE,4,1100,Mordenkainen's Tome of Foes pg. 128
+Dybbuk,Medium,Fiend,demon,CE,4,1100,Mordenkainen's Tome of Foes pg. 132
+Elephant,Huge,Beast,,Unaligned,4,1100,Monster Manual pg. 322
+Ettin,Large,Giant,,CE,4,1100,Monster Manual pg. 132
+Flameskull,Tiny,Undead,,NE,4,1100,Monster Manual pg. 134
+Ghost,Medium,Undead,,Any,4,1100,Monster Manual pg. 147
+Girallon,Large,Monstrosity,,Unaligned,4,1100,Volo's Guide to Monsters pg. 152
+Gnoll Fang of Yeenoghu,Medium,Fiend,gnoll,CE,4,1100,Monster Manual pg. 163
+Helmed Horror,Medium,Construct,,N,4,1100,Monster Manual pg. 183
+Hobgoblin Devastator,Medium,Humanoid,goblinoid,LE,4,1100,Volo's Guide to Monsters pg. 161
+Incubus,Medium,Fiend,shapechanger,NE,4,1100,Monster Manual pg. 285
+Iron Cobra,Medium,Construct,,Unaligned,4,1100,Mordenkainen's Tome of Foes pg. 125
+Lamia,Large,Monstrosity,,CE,4,1100,Monster Manual pg. 201
+Lizard King/Queen,Medium,Humanoid,lizardfolk,CE,4,1100,Monster Manual pg. 205
+Merregon,Medium,Fiend,devil,LE,4,1100,Mordenkainen's Tome of Foes pg. 166
+Neogi Master,Medium,Aberration,,LE,4,1100,Volo's Guide to Monsters pg. 180
+Ogre Battering Ram,Large,Giant,,CE,4,1100,Mordenkainen's Tome of Foes pg. 220
+Orc Blade of Ilneval,Medium,Humanoid,orc,CE,4,1100,Volo's Guide to Monsters pg. 183
+Orc War Chief,Medium,Humanoid,orc,CE,4,1100,Monster Manual pg. 246
+Red Dragon Wyrmling,Medium,Dragon,,CE,4,1100,Monster Manual pg. 98
+Shadow Demon,Medium,Fiend,demon,CE,4,1100,Monster Manual pg. 64
+Stegosaurus,Huge,Beast,,Unaligned,4,1100,Volo's Guide to Monsters pg. 140
+Stone Defender,Medium,Construct,,Unaligned,4,1100,Mordenkainen's Tome of Foes pg. 126
+Succubus,Medium,Fiend,shapechanger,NE,4,1100,Monster Manual pg. 285
+Warlock of the Archfey,Medium,Humanoid,,Any,4,1100,Volo's Guide to Monsters pg. 219
+Wereboar,Medium,Humanoid,human, shapechanger,NE,4,1100,Monster Manual pg. 209
+Weretiger,Medium,Humanoid,human, shapechanger,N,4,1100,Monster Manual pg. 210
+Yeth Hound,Large,Fey,,NE,4,1100,Volo's Guide to Monsters pg. 201
+Yuan-ti Mind Whisperer,Medium,Monstrosity,shapechanger, yuan-ti,NE,4,1100,Volo's Guide to Monsters pg. 204
+Yuan-ti Nightmare Speaker,Medium,Monstrosity,shapechanger, yuan-ti,NE,4,1100,Volo's Guide to Monsters pg. 205
+Adult Oblex,Medium,Ooze,,LE,5,1800,Mordenkainen's Tome of Foes pg. 218
+Air Elemental,Large,Elemental,,N,5,1800,Monster Manual pg. 124
+Allip,Medium,Undead,,NE,5,1800,Mordenkainen's Tome of Foes pg. 116
+Banderhobb,Large,Monstrosity,,NE,5,1800,Volo's Guide to Monsters pg. 122
+Barbed Devil,Medium,Fiend,devil,LE,5,1800,Monster Manual pg. 70
+Barlgura,Large,Fiend,demon,CE,5,1800,Monster Manual pg. 56
+Beholder Zombie,Large,Undead,,NE,5,1800,Monster Manual pg. 316
+Brontosaurus,Gargantuan,Beast,,Unaligned,5,1800,Volo's Guide to Monsters pg. 139
+Bulette,Large,Monstrosity,,Unaligned,5,1800,Monster Manual pg. 34
+Cambion,Medium,Fiend,,Any evil,5,1800,Monster Manual pg. 36
+Catoblepas,Large,Monstrosity,,Unaligned,5,1800,Volo's Guide to Monsters pg. 129
+Drow Elite Warrior,Medium,Humanoid,elf,NE,5,1800,Monster Manual pg. 128
+Earth Elemental,Large,Elemental,,N,5,1800,Monster Manual pg. 124
+Enchanter,Medium,Humanoid,,Any,5,1800,Volo's Guide to Monsters pg. 213
+Fire Elemental,Large,Elemental,,N,5,1800,Monster Manual pg. 125
+Flesh Golem,Medium,Construct,,N,5,1800,Monster Manual pg. 169
+Giant Crocodile,Huge,Beast,,Unaligned,5,1800,Monster Manual pg. 324
+Giant Shark,Huge,Beast,,Unaligned,5,1800,Monster Manual pg. 328
+Gladiator,Medium,Humanoid,,Any,5,1800,Monster Manual pg. 346
+Gorgon,Large,Monstrosity,,Unaligned,5,1800,Monster Manual pg. 171
+Half-Red Dragon Veteran,Medium,Humanoid,human,Any,5,1800,Monster Manual pg. 180
+Hill Giant,Huge,Giant,,CE,5,1800,Monster Manual pg. 155
+Kraken Priest,Medium,Humanoid,,Any,5,1800,Volo's Guide to Monsters pg. 215
+Kruthik Hive Lord,Large,Monstrosity,,Unaligned,5,1800,Mordenkainen's Tome of Foes pg. 212
+Master Thief,Medium,Humanoid,,Any,5,1800,Volo's Guide to Monsters pg. 216
+Mezzoloth,Medium,Fiend,yugoloth,NE,5,1800,Monster Manual pg. 313
+Mindwitness,Large,Aberration,,LE,5,1800,Volo's Guide to Monsters pg. 176
+Night Hag,Medium,Fiend,,NE,5,1800,Monster Manual pg. 178
+Oaken Bolter,Medium,Construct,,Unaligned,5,1800,Mordenkainen's Tome of Foes pg. 126
+Otyugh,Large,Aberration,,N,5,1800,Monster Manual pg. 248
+Red Slaad,Large,Aberration,,CN,5,1800,Monster Manual pg. 276
+Revenant,Medium,Undead,,N,5,1800,Monster Manual pg. 259
+Roper,Large,Monstrosity,,NE,5,1800,Monster Manual pg. 261
+Sahuagin Baron,Large,Humanoid,sahuagin,LE,5,1800,Monster Manual pg. 264
+Salamander,Large,Elemental,,NE,5,1800,Monster Manual pg. 266
+Shambling Mound,Large,Plant,,Unaligned,5,1800,Monster Manual pg. 270
+Spawn of Kyuss,Medium,Undead,,CE,5,1800,Volo's Guide to Monsters pg. 192
+Star Spawn Mangler,Medium,Aberration,,CE,5,1800,Mordenkainen's Tome of Foes pg. 236
+Swarm of Cranium Rats,Medium,Beast,,LE,5,1800,Volo's Guide to Monsters pg. 133
+Tanarukk,Medium,Fiend,demon, orc,CE,5,1800,Volo's Guide to Monsters pg. 186
+Tlincalli,Large,Monstrosity,,NE,5,1800,Volo's Guide to Monsters pg. 193
+Transmuter,Medium,Humanoid,,Any,5,1800,Volo's Guide to Monsters pg. 218
+Triceratops,Huge,Beast,,Unaligned,5,1800,Monster Manual pg. 80
+Troll,Large,Giant,,CE,5,1800,Monster Manual pg. 291
+Umber Hulk,Large,Monstrosity,,CE,5,1800,Monster Manual pg. 292
+Unicorn,Large,Celestial,,LG,5,1800,Monster Manual pg. 294
+Vampire Spawn,Medium,Undead,,NE,5,1800,Monster Manual pg. 298
+Water Elemental,Large,Elemental,,N,5,1800,Monster Manual pg. 125
+Werebear,Medium,Humanoid,human, shapechanger,NG,5,1800,Monster Manual pg. 208
+Wood Woad,Medium,Plant,,LN,5,1800,Volo's Guide to Monsters pg. 198
+Wraith,Medium,Undead,,NE,5,1800,Monster Manual pg. 302
+Xorn,Medium,Elemental,,N,5,1800,Monster Manual pg. 304
+Young Remorhaz,Large,Monstrosity,,Unaligned,5,1800,Monster Manual pg. 258
+Yuan-ti Pit Master,Medium,Monstrosity,shapechanger, yuan-ti,NE,5,1800,Volo's Guide to Monsters pg. 206
+Annis Hag,Large,Fey,,CE,6,2300,Volo's Guide to Monsters pg. 159
+Bodak,Medium,Undead,,CE,6,2300,Volo's Guide to Monsters pg. 127
+Chasme,Large,Fiend,demon,CE,6,2300,Monster Manual pg. 57
+Chimera,Large,Monstrosity,,CE,6,2300,Monster Manual pg. 39
+Conjurer,Medium,Humanoid,,Any,6,2300,Volo's Guide to Monsters pg. 212
+Cyclops,Huge,Giant,,CN,6,2300,Monster Manual pg. 45
+Drider,Large,Monstrosity,,CE,6,2300,Monster Manual pg. 120
+Duergar Warlord,Medium,Humanoid,dwarf,LE,6,2300,Mordenkainen's Tome of Foes pg. 192
+Galeb Duhr,Medium,Elemental,,N,6,2300,Monster Manual pg. 139
+Gauth,Medium,Aberration,,LE,6,2300,Volo's Guide to Monsters pg. 125
+Githzerai Zerth,Medium,Humanoid,gith,LN,6,2300,Monster Manual pg. 161
+Hobgoblin Warlord,Medium,Humanoid,goblinoid,LE,6,2300,Monster Manual pg. 187
+Invisible Stalker,Medium,Elemental,,N,6,2300,Monster Manual pg. 192
+Kuo-toa Archpriest,Medium,Humanoid,kuo-toa,NE,6,2300,Monster Manual pg. 200
+Mage,Medium,Humanoid,,,6,2300,Monster Manual pg. 347
+Mammoth,Huge,Beast,,Unaligned,6,2300,Monster Manual pg. 332
+Medusa,Medium,Monstrosity,,LE,6,2300,Monster Manual pg. 214
+Mouth of Grolantor,Huge,Giant,hill giant,CE,6,2300,Volo's Guide to Monsters pg. 149
+Vrock,Large,Fiend,demon,CE,6,2300,Monster Manual pg. 64
+Warlock of the Great Old One,Medium,Humanoid,,Any,6,2300,Volo's Guide to Monsters pg. 220
+White Abishai,Medium,Fiend,devil,LE,6,2300,Mordenkainen's Tome of Foes pg. 163
+Wyvern,Large,Dragon,,Unaligned,6,2300,Monster Manual pg. 303
+Young Brass Dragon,Large,Dragon,,CG,6,2300,Monster Manual pg. 105
+Young White Dragon,Large,Dragon,,CE,6,2300,Monster Manual pg. 101
+Air Elemental Myrmidon,Medium,Elemental,,N,7,2900,Mordenkainen's Tome of Foes pg. 202
+Armanite,Large,Fiend,demon,CE,7,2900,Mordenkainen's Tome of Foes pg. 131
+Bheur Hag,Medium,Fey,,CE,7,2900,Volo's Guide to Monsters pg. 160
+Black Abishai,Medium,Fiend,devil,LE,7,2900,Mordenkainen's Tome of Foes pg. 160
+Blue Slaad,Large,Aberration,,CN,7,2900,Monster Manual pg. 276
+Dhergoloth,Medium,Fiend,yugoloth,NE,7,2900,Mordenkainen's Tome of Foes pg. 248
+Draegloth,Large,Fiend,demon,CE,7,2900,Volo's Guide to Monsters pg. 141
+Drow Mage,Medium,Humanoid,elf,NE,7,2900,Monster Manual pg. 129
+Earth Elemental Myrmidon,Medium,Elemental,,N,7,2900,Mordenkainen's Tome of Foes pg. 202
+Fire Elemental Myrmidon,Medium,Elemental,,N,7,2900,Mordenkainen's Tome of Foes pg. 203
+Giant Ape,Huge,Beast,,Unaligned,7,2900,Monster Manual pg. 323
+Grick Alpha,Large,Monstrosity,,N,7,2900,Monster Manual pg. 173
+Korred,Small,Fey,,CN,7,2900,Volo's Guide to Monsters pg. 168
+Lost Sorrowsworn,Medium,Monstrosity,,NE,7,2900,Mordenkainen's Tome of Foes pg. 233
+Maurezhi,Medium,Fiend,demon,CE,7,2900,Mordenkainen's Tome of Foes pg. 133
+Mind Flayer,Medium,Aberration,,LE,7,2900,Monster Manual pg. 222
+Oni,Large,Giant,,LE,7,2900,Monster Manual pg. 239
+Shadow Dancer,Medium,Humanoid,elf,N,7,2900,Mordenkainen's Tome of Foes pg. 225
+Shield Guardian,Large,Construct,,Unaligned,7,2900,Monster Manual pg. 271
+Stone Giant,Huge,Giant,,N,7,2900,Monster Manual pg. 156
+Venom Troll,Large,Giant,,CE,7,2900,Mordenkainen's Tome of Foes pg. 245
+Warlock of the Fiend,Medium,Humanoid,,Any,7,2900,Volo's Guide to Monsters pg. 219
+Water Elemental Myrmidon,Medium,Elemental,,N,7,2900,Mordenkainen's Tome of Foes pg. 203
+Young Black Dragon,Large,Dragon,,CE,7,2900,Monster Manual pg. 88
+Young Copper Dragon,Large,Dragon,,CG,7,2900,Monster Manual pg. 111
+Yuan-ti Abomination,Large,Monstrosity,shapechanger, yuan-ti,NE,7,2900,Monster Manual pg. 308
+Assassin,Medium,Humanoid,,Any non-good,8,3900,Monster Manual pg. 343
+Blackguard,Medium,Humanoid,,Any non-good,8,3900,Volo's Guide to Monsters pg. 211
+Canoloth,Medium,Fiend,yugoloth,NE,8,3900,Mordenkainen's Tome of Foes pg. 247
+Chain Devil,Medium,Fiend,devil,LE,8,3900,Monster Manual pg. 72
+Cloaker,Large,Aberration,,CN,8,3900,Monster Manual pg. 41
+Corpse Flower,Large,Plant,,CE,8,3900,Mordenkainen's Tome of Foes pg. 127
+Deathlock Mastermind,Medium,Undead,,NE,8,3900,Mordenkainen's Tome of Foes pg. 129
+Diviner,Medium,Humanoid,,Any,8,3900,Volo's Guide to Monsters pg. 213
+Drow Priestess of Lolth,Medium,Humanoid,elf,NE,8,3900,Monster Manual pg. 129
+Fomorian,Huge,Giant,,CE,8,3900,Monster Manual pg. 136
+Frost Giant,Huge,Giant,,NE,8,3900,Monster Manual pg. 155
+Githyanki Knight,Medium,Humanoid,gith,LE,8,3900,Monster Manual pg. 160
+Green Slaad,Large,Aberration,shapechanger,CN,8,3900,Monster Manual pg. 277
+Hezrou,Large,Fiend,demon,CE,8,3900,Monster Manual pg. 60
+Howler,Large,Fiend,,CE,8,3900,Mordenkainen's Tome of Foes pg. 210
+Hydra,Huge,Monstrosity,,Unaligned,8,3900,Monster Manual pg. 190
+Mind Flayer Arcanist,Medium,Aberration,,LE,8,3900,Monster Manual pg. 222
+Shoosuva,Large,Fiend,demon,CE,8,3900,Volo's Guide to Monsters pg. 137
+Spirit Naga,Large,Monstrosity,,CE,8,3900,Monster Manual pg. 234
+Sword Wraith Commander,Medium,Undead,,LE,8,3900,Mordenkainen's Tome of Foes pg. 241
+Tyrannosaurus Rex,Huge,Beast,,Unaligned,8,3900,Monster Manual pg. 80
+Young Bronze Dragon,Large,Dragon,,LG,8,3900,Monster Manual pg. 108
+Young Green Dragon,Large,Dragon,,LE,8,3900,Monster Manual pg. 94
+Abjurer,Medium,Humanoid,,Any,9,5000,Volo's Guide to Monsters pg. 209
+Abominable Yeti,Huge,Monstrosity,,CE,9,5000,Monster Manual pg. 306
+Bone Devil,Large,Fiend,devil,LE,9,5000,Monster Manual pg. 71
+Champion,Medium,Humanoid,,Any,9,5000,Volo's Guide to Monsters pg. 212
+Clay Golem,Large,Construct,,Unaligned,9,5000,Monster Manual pg. 168
+Cloud Giant,Huge,Giant,,NG or NE,9,5000,Monster Manual pg. 154
+Drow House Captain,Medium,Humanoid,elf,NE,9,5000,Mordenkainen's Tome of Foes pg. 184
+Evoker,Medium,Humanoid,,Any,9,5000,Volo's Guide to Monsters pg. 214
+Fire Giant,Huge,Giant,,LE,9,5000,Monster Manual pg. 154
+Flind,Medium,Humanoid,gnoll,CE,9,5000,Volo's Guide to Monsters pg. 153
+Frost Salamander,Huge,Elemental,,Unaligned,9,5000,Mordenkainen's Tome of Foes pg. 223
+Glabrezu,Large,Fiend,demon,CE,9,5000,Monster Manual pg. 58
+Gloom Weaver,Medium,Humanoid,elf,N,9,5000,Mordenkainen's Tome of Foes pg. 224
+Gray Slaad,Medium,Aberration,shapechanger,CN,9,5000,Monster Manual pg. 277
+Hydroloth,Medium,Fiend,yugoloth,NE,9,5000,Mordenkainen's Tome of Foes pg. 249
+Lonely Sorrowsworn,Medium,Monstrosity,,NE,9,5000,Mordenkainen's Tome of Foes pg. 232
+Necromancer,Medium,Humanoid,,Any,9,5000,Volo's Guide to Monsters pg. 217
+Nycaloth,Large,Fiend,yugoloth,NE,9,5000,Monster Manual pg. 314
+Rot Troll,Large,Giant,,CE,9,5000,Mordenkainen's Tome of Foes pg. 244
+Treant,Huge,Plant,,CG,9,5000,Monster Manual pg. 289
+Ulitharid,Large,Aberration,,LE,9,5000,Volo's Guide to Monsters pg. 175
+War Priest,Medium,Humanoid,,Any,9,5000,Volo's Guide to Monsters pg. 218
+Young Blue Dragon,Large,Dragon,,LE,9,5000,Monster Manual pg. 91
+Young Silver Dragon,Large,Dragon,,LG,9,5000,Monster Manual pg. 118
+Aboleth,Large,Aberration,,LE,10,5900,Monster Manual pg. 13
+Alhoon,Medium,Undead,,Any evil,10,5900,Volo's Guide to Monsters pg. 172
+Autumn Eladrin,Medium,Fey,elf,CN,10,5900,Mordenkainen's Tome of Foes pg. 195
+Death Kiss,Large,Aberration,,NE,10,5900,Volo's Guide to Monsters pg. 124
+Death Slaad,Medium,Aberration,shapechanger,CE,10,5900,Monster Manual pg. 278
+Deva,Medium,Celestial,,LG,10,5900,Monster Manual pg. 16
+Elder Oblex,Huge,Ooze,,LE,10,5900,Mordenkainen's Tome of Foes pg. 219
+Froghemoth,Huge,Monstrosity,,Unaligned,10,5900,Volo's Guide to Monsters pg. 145
+Githyanki Gish,Medium,Humanoid,gith,LE,10,5900,Mordenkainen's Tome of Foes pg. 205
+Githzerai Enlightened,Medium,Humanoid,gith,LN,10,5900,Mordenkainen's Tome of Foes pg. 208
+Guardian Naga,Large,Monstrosity,,LG,10,5900,Monster Manual pg. 234
+Orthon,Large,Fiend,devil,LE,10,5900,Mordenkainen's Tome of Foes pg. 169
+Spring Eladrin,Medium,Fey,elf,CN,10,5900,Mordenkainen's Tome of Foes pg. 196
+Star Spawn Hulk,Large,Aberration,,CE,10,5900,Mordenkainen's Tome of Foes pg. 234
+Stone Giant Dreamwalker,Huge,Giant,stone giant,CN,10,5900,Volo's Guide to Monsters pg. 150
+Stone Golem,Large,Construct,,Unaligned,10,5900,Monster Manual pg. 170
+Summer Eladrin,Medium,Fey,elf,CN,10,5900,Mordenkainen's Tome of Foes pg. 196
+Winter Eladrin,Medium,Fey,elf,CN,10,5900,Mordenkainen's Tome of Foes pg. 197
+Yochlol,Medium,Fiend,demon, shapechanger,CE,10,5900,Monster Manual pg. 65
+Young Gold Dragon,Large,Dragon,,LG,10,5900,Monster Manual pg. 115
+Young Red Dragon,Large,Dragon,,CE,10,5900,Monster Manual pg. 98
+Alkilith,Medium,Fiend,demon,CE,11,7200,Mordenkainen's Tome of Foes pg. 130
+Balhannoth,Large,Aberration,,CE,11,7200,Mordenkainen's Tome of Foes pg. 118
+Behir,Huge,Monstrosity,,NE,11,7200,Monster Manual pg. 25
+Cloud Giant Smiling One,Huge,Giant,cloud giant,CN,11,7200,Volo's Guide to Monsters pg. 146
+Dao,Large,Elemental,,NE,11,7200,Monster Manual pg. 143
+Djinni,Large,Elemental,,CG,11,7200,Monster Manual pg. 144
+Drow Shadowblade,Medium,Humanoid,elf,NE,11,7200,Mordenkainen's Tome of Foes pg. 187
+Efreeti,Large,Elemental,,LE,11,7200,Monster Manual pg. 145
+Gynosphinx,Large,Monstrosity,,LN,11,7200,Monster Manual pg. 282
+Horned Devil,Large,Fiend,devil,LE,11,7200,Monster Manual pg. 74
+Hungry Sorrowsworn,Medium,Monstrosity,,NE,11,7200,Mordenkainen's Tome of Foes pg. 232
+Marid,Large,Elemental,,CN,11,7200,Monster Manual pg. 146
+Morkoth,Medium,Aberration,,CE,11,7200,Volo's Guide to Monsters pg. 178
+Remorhaz,Huge,Monstrosity,,Unaligned,11,7200,Monster Manual pg. 258
+Roc,Gargantuan,Monstrosity,,Unaligned,11,7200,Monster Manual pg. 260
+Soul Monger,Medium,Humanoid,elf,N,11,7200,Mordenkainen's Tome of Foes pg. 226
+Spirit Troll,Large,Giant,,CE,11,7200,Mordenkainen's Tome of Foes pg. 244
+Yagnoloth,Large,Fiend,yugoloth,NE,11,7200,Mordenkainen's Tome of Foes pg. 252
+Arcanaloth,Medium,Fiend,yugoloth,NE,12,8400,Monster Manual pg. 313
+Archdruid,Medium,Humanoid,,Any,12,8400,Volo's Guide to Monsters pg. 210
+Archmage,Medium,Humanoid,,Any,12,8400,Monster Manual pg. 342
+Boneclaw,Large,Undead,,CE,12,8400,Mordenkainen's Tome of Foes pg. 121
+Duergar Despot,Medium,Humanoid,dwarf,LE,12,8400,Mordenkainen's Tome of Foes pg. 188
+Eidolon,Medium,Undead,,Any,12,8400,Mordenkainen's Tome of Foes pg. 194
+Erinyes,Medium,Fiend,devil,LE,12,8400,Monster Manual pg. 73
+Frost Giant Everlasting One,Huge,Giant,frost giant,CE,12,8400,Volo's Guide to Monsters pg. 148
+Githyanki Kith'rak,Medium,Humanoid,gith,LE,12,8400,Mordenkainen's Tome of Foes pg. 205
+Gray Render,Large,Monstrosity,,CN,12,8400,Mordenkainen's Tome of Foes pg. 209
+Ki-rin,Huge,Celestial,,LG,12,8400,Volo's Guide to Monsters pg. 163
+Morkoth (in lair),Medium,Aberration,,CE,12,8400,Volo's Guide to Monsters pg. 178
+Oinoloth,Medium,Fiend,yugoloth,NE,12,8400,Mordenkainen's Tome of Foes pg. 251
+Warlord,Medium,Humanoid,,Any,12,8400,Volo's Guide to Monsters pg. 220
+Yuan-ti Anathema,Huge,Monstrosity,shapechanger, yuan-ti,NE,12,8400,Volo's Guide to Monsters pg. 202
+Adult Brass Dragon,Huge,Dragon,,CG,13,10000,Monster Manual pg. 105
+Adult White Dragon,Huge,Dragon,,CE,13,10000,Monster Manual pg. 101
+Angry Sorrowsworn,Medium,Monstrosity,,NE,13,10000,Mordenkainen's Tome of Foes pg. 231
+Beholder,Large,Aberration,,LE,13,10000,Monster Manual pg. 28
+Devourer,Large,Fiend,,CE,13,10000,Volo's Guide to Monsters pg. 138
+Dire Troll,Huge,Giant,,CE,13,10000,Mordenkainen's Tome of Foes pg. 243
+Drow Arachnomancer,Medium,Humanoid,elf,CE,13,10000,Mordenkainen's Tome of Foes pg. 182
+Nalfeshnee,Large,Fiend,demon,CE,13,10000,Monster Manual pg. 62
+Narzugon,Medium,Fiend,devil,LE,13,10000,Mordenkainen's Tome of Foes pg. 167
+Neothelid,Gargantuan,Aberration,,CE,13,10000,Volo's Guide to Monsters pg. 181
+Rakshasa,Medium,Fiend,,LE,13,10000,Monster Manual pg. 257
+Star Spawn Seer,Medium,Aberration,,NE,13,10000,Mordenkainen's Tome of Foes pg. 236
+Storm Giant,Huge,Giant,,CG,13,10000,Monster Manual pg. 156
+Ultroloth,Medium,Fiend,yugoloth,NE,13,10000,Monster Manual pg. 314
+Vampire,Medium,Undead,shapechanger,LE,13,10000,Monster Manual pg. 297
+Wastrilith,Large,Fiend,demon,CE,13,10000,Mordenkainen's Tome of Foes pg. 139
+Young Red Shadow Dragon,Large,Dragon,,CE,13,10000,Monster Manual pg. 85
+Adult Black Dragon,Huge,Dragon,,CE,14,11500,Monster Manual pg. 88
+Adult Copper Dragon,Huge,Dragon,,CG,14,11500,Monster Manual pg. 111
+Beholder (in lair),Large,Aberration,,LE,14,11500,Monster Manual pg. 28
+Cadaver Collector,Large,Construct,,LE,14,11500,Mordenkainen's Tome of Foes pg. 122
+Death Tyrant,Large,Undead,,LE,14,11500,Monster Manual pg. 29
+Drow Inquisitor,Medium,Humanoid,elf,NE,14,11500,Mordenkainen's Tome of Foes pg. 184
+Elder Brain,Large,Aberration,,LE,14,11500,Volo's Guide to Monsters pg. 174
+Fire Giant Dreadnought,Huge,Giant,fire giant,LE,14,11500,Volo's Guide to Monsters pg. 147
+Githyanki Supreme Commander,Medium,Humanoid,gith,LE,14,11500,Mordenkainen's Tome of Foes pg. 206
+Ice Devil,Large,Fiend,devil,LE,14,11500,Monster Manual pg. 75
+Retriever,Large,Construct,,LE,14,11500,Mordenkainen's Tome of Foes pg. 222
+Adult Bronze Dragon,Huge,Dragon,,LG,15,13000,Monster Manual pg. 108
+Adult Green Dragon,Huge,Dragon,,LE,15,13000,Monster Manual pg. 94
+Death Tyrant (in lair),Large,Undead,,LE,15,13000,Monster Manual pg. 29
+Green Abishai,Medium,Fiend,devil,LE,15,13000,Mordenkainen's Tome of Foes pg. 162
+Mummy Lord,Medium,Undead,,LE,15,13000,Monster Manual pg. 229
+Nabassu,Medium,Fiend,demon,CE,15,13000,Mordenkainen's Tome of Foes pg. 135
+Purple Worm,Gargantuan,Monstrosity,,Unaligned,15,13000,Monster Manual pg. 255
+Skull Lord,Medium,Undead,,LE,15,13000,Mordenkainen's Tome of Foes pg. 230
+Vampire (spellcaster),Medium,Undead,shapechanger,LE,15,13000,Monster Manual pg. 297
+Vampire (warrior),Medium,Undead,shapechanger,LE,15,13000,Monster Manual pg. 297
+Adult Blue Dragon,Huge,Dragon,,LE,16,15000,Monster Manual pg. 91
+Adult Silver Dragon,Huge,Dragon,,LG,16,15000,Monster Manual pg. 117
+Githzerai Anarch,Medium,Humanoid,gith,LN,16,15000,Mordenkainen's Tome of Foes pg. 207
+Hellfire Engine,Huge,Construct,,LE,16,15000,Mordenkainen's Tome of Foes pg. 165
+Iron Golem,Large,Construct,,Unaligned,16,15000,Monster Manual pg. 170
+Marilith,Large,Fiend,demon,CE,16,15000,Monster Manual pg. 61
+Mummy Lord (in lair),Medium,Undead,,LE,16,15000,Monster Manual pg. 229
+Phoenix,Gargantuan,Elemental,,N,16,15000,Mordenkainen's Tome of Foes pg. 199
+Planetar,Large,Celestial,,LG,16,15000,Monster Manual pg. 17
+Star Spawn Larva Mage,Medium,Aberration,,CE,16,15000,Mordenkainen's Tome of Foes pg. 235
+Steel Predator,Large,Construct,,LE,16,15000,Mordenkainen's Tome of Foes pg. 239
+Storm Giant Quintessent,Huge,Giant,storm giant,CG,16,15000,Volo's Guide to Monsters pg. 151
+Adult Blue Dracolich,Huge,Undead,,LE,17,18000,Monster Manual pg. 84
+Adult Gold Dragon,Huge,Dragon,,LG,17,18000,Monster Manual pg. 114
+Adult Red Dragon,Huge,Dragon,,CE,17,18000,Monster Manual pg. 98
+Androsphinx,Large,Monstrosity,,LN,17,18000,Monster Manual pg. 281
+Blue Abishai,Medium,Fiend,devil,LE,17,18000,Mordenkainen's Tome of Foes pg. 161
+Death Knight,Medium,Undead,,CE,17,18000,Monster Manual pg. 47
+Dragon Turtle,Gargantuan,Dragon,,N,17,18000,Monster Manual pg. 119
+Goristro,Huge,Fiend,demon,CE,17,18000,Monster Manual pg. 59
+Nagpa,Medium,Humanoid,nagpa,NE,17,18000,Mordenkainen's Tome of Foes pg. 215
+Amnizu,Medium,Fiend,devil,LE,18,20000,Mordenkainen's Tome of Foes pg. 164
+Demilich,Tiny,Undead,,NE,18,20000,Monster Manual pg. 48
+Drow Favored Consort,Medium,Humanoid,elf,NE,18,20000,Mordenkainen's Tome of Foes pg. 183
+Sibriex,Huge,Fiend,demon,CE,18,20000,Mordenkainen's Tome of Foes pg. 137
+Balor,Huge,Fiend,demon,CE,19,22000,Monster Manual pg. 55
+Red Abishai,Medium,Fiend,devil,LE,19,22000,Mordenkainen's Tome of Foes pg. 162
+Demilich (in lair),Tiny,Undead,,NE,20,24500,Monster Manual pg. 48
+Ancient Brass Dragon,Gargantuan,Dragon,,CG,20,25000,Monster Manual pg. 104
+Ancient White Dragon,Gargantuan,Dragon,,CE,20,25000,Monster Manual pg. 100
+Drow Matron Mother,Medium,Humanoid,elf,NE,20,25000,Mordenkainen's Tome of Foes pg. 186
+Leviathan,Gargantuan,Elemental,,N,20,25000,Mordenkainen's Tome of Foes pg. 198
+Nightwalker,Huge,Undead,,CE,20,25000,Mordenkainen's Tome of Foes pg. 216
+Pit Fiend,Large,Fiend,devil,LE,20,25000,Monster Manual pg. 77
+Ancient Black Dragon,Gargantuan,Dragon,,CE,21,33000,Monster Manual pg. 87
+Ancient Copper Dragon,Gargantuan,Dragon,,CG,21,33000,Monster Manual pg. 110
+Astral Dreadnought,Gargantuan,Monstrosity,titan,Unaligned,21,33000,Mordenkainen's Tome of Foes pg. 117
+Lich,Medium,Undead,,Any evil,21,33000,Monster Manual pg. 202
+Molydeus,Huge,Fiend,demon,CE,21,33000,Mordenkainen's Tome of Foes pg. 134
+Solar,Large,Celestial,,LG,21,33000,Monster Manual pg. 18
+Ancient Bronze Dragon,Gargantuan,Dragon,,LG,22,41000,Monster Manual pg. 107
+Ancient Green Dragon,Gargantuan,Dragon,,LE,22,41000,Monster Manual pg. 93
+Lich (in lair),Medium,Undead,,Any evil,22,41000,Monster Manual pg. 202
+Mind Flayer Lich,Medium,Undead,,Any evil,22,41000,Volo's Guide to Monsters pg. 172
+Zaratan,Gargantuan,Elemental,,N,22,41000,Mordenkainen's Tome of Foes pg. 201
+Ancient Blue Dragon,Gargantuan,Dragon,,LE,23,50000,Monster Manual pg. 90
+Ancient Silver Dragon,Gargantuan,Dragon,,LG,23,50000,Monster Manual pg. 116
+Elder Tempest,Gargantuan,Elemental,,N,23,50000,Mordenkainen's Tome of Foes pg. 200
+Empyrean,Huge,Celestial,titan,CG or NE,23,50000,Monster Manual pg. 130
+Kraken,Gargantuan,Monstrosity,titan,CE,23,50000,Monster Manual pg. 197
+Ancient Gold Dragon,Gargantuan,Dragon,,LG,24,62000,Monster Manual pg. 113
+Ancient Red Dragon,Gargantuan,Dragon,,CE,24,62000,Monster Manual pg. 97
+Marut,Large,Construct,inevitable,LN,25,75000,Mordenkainen's Tome of Foes pg. 213
+Tarrasque,Gargantuan,Monstrosity,titan,Unaligned,30,155000,Monster Manual pg. 286
